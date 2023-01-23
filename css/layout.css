@@ -1382,7 +1382,7 @@ a.heart-circle:hover {
    Contact Page
 ======================================================== */
 
-.e-mail, .telephone {
+.e-mail, .telephone, .discord, .whatsapp {
 	display: block;
 	color: white;
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
